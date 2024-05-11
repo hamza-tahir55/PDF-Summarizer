@@ -78,6 +78,3 @@ Contributions to PDF Summarizer are welcome! Here's how you can contribute:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Replace `<repository-url>` with the URL of your project repository. This README file provides an overview of your project, instructions for installation and usage, guidance for contributing, and information about the project's license. It should help users and contributors understand your project and get started with running the code.
