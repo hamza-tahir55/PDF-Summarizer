@@ -1,9 +1,7 @@
 # PDF-Summarizer
 SummarEase utilizes NLP to condense PDFs into concise summaries, employing advanced algorithms for informative insights, catering to users dealing with large text volumes.
 
-Here's an updated README.md file for your project, including steps to run the code:
 
-```markdown
 # PDF Summarizer
 
 This Flask application extracts text from PDF files, summarizes the content, and displays the summary.
